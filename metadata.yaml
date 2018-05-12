@@ -14,6 +14,8 @@ creator:
     - http://it.wikipedia.org/wiki/Silvio_Pellico
     - http://en.wikipedia.org/wiki/Silvio_Pellico
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19429#Poesie-inedite-vol.-I
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2006-10-01'
 gutenberg_type: Text
